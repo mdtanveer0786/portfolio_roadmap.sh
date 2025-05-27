@@ -7,6 +7,9 @@ Welcome to the **Developer Portfolio Roadmap**! This guide will help you create 
 ## 🗺️ Roadmap Overview
 
 [Live Portfolio](https://myportfolio-md.netlify.app/)
+
+ <br>
+
 [Live Demo Project](https://simpleportfoliio.netlify.app/)
 
 ### 1. 🔍 Planning Your Portfolio
@@ -96,7 +99,9 @@ Welcome to the **Developer Portfolio Roadmap**! This guide will help you create 
 
 ## 📞 Contact
 [Md Tanveer](https://www.linkedin.com/in/md-tanveer-b7a134219/)
+<br>
 [Portfolio](https://myportfolio-md.netlify.app/)
+<br>
 [Gmail](enquiryinto@gmail.com)
 
 Feel free to reach out if you have any questions or want help with your portfolio journey!
